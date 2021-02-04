@@ -1,0 +1,61 @@
+.cls_Title {
+  text-align: center;
+  margin: 20px 0px;
+}
+
+.cls_ProductsWrapper {
+  padding: 20px 0px;
+  margin: 0 auto;
+  text-align: center;
+}
+
+.cls_ProdImgCont img {
+  width: 300px;
+}
+
+.cls_ProductCont {
+  display: inline-block;
+  padding: 20px 15px;
+}
+
+.cls_CartCount {
+  float: right;
+  padding-right: 64px;
+}
+
+.cls_BackHome {
+  padding: 20px;
+}
+
+.addToCartBtn {
+  cursor: pointer;
+  padding: 15px 0px;
+  border: solid 1px;
+  margin-top: 15px;
+}
+
+.cls_CartProdCont {
+  padding: 20px;
+  display: table;
+}
+
+.cls_CartProdImage {
+  width: 200px;
+}
+
+.cls_CartProdImage img {
+  width: 200px;
+}
+
+.cls_CartDesc {
+  display: table-cell;
+  vertical-align: middle;
+  padding: 0px 20px;
+}
+
+.cls_cartRemove {
+  display: table-cell;
+  vertical-align: middle;
+  cursor: pointer;
+  user-select: none;
+}
